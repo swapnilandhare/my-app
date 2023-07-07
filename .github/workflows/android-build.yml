@@ -27,11 +27,11 @@ jobs:
       - name: Install app dependencies
         run: npm install
 
-      - name: Build Svelte app
+      - name: Run build app
         run: npm run build:static
 
-      # - name: Capacitor update
-      #   run: npx cap update
+      - name: Capacitor update
+        run: npx cap update
 
       - name: Capacitor copy
         run: npx cap copy
