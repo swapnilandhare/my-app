@@ -1,8 +1,8 @@
 import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: "com.example.app",
-  appName: "my-app",
+  appId: "com.tribetayling.trident_mumbai_400001_customer",
+  appName: "Trident",
   webDir: "out",
   plugins: {
     android: {

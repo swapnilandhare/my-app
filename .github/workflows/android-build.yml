@@ -30,8 +30,8 @@ jobs:
       - name: Run build app
         run: npm run build:static
 
-      - name: Capacitor update
-        run: npx cap update
+      # - name: Capacitor update
+      #   run: npx cap update
 
       - name: Capacitor copy
         run: npx cap copy
