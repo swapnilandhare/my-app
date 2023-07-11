@@ -1,7 +1,7 @@
 import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: "com.tribetayling.trident_mumbai_400001_customer",
+  appId: "com.tribetayling.tridentmumbai400001customer",
   appName: "Trident",
   webDir: "out",
   plugins: {

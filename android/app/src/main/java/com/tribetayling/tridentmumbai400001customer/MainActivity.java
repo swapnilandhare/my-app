@@ -1,4 +1,4 @@
-package com.tribetayling.trident_mumbai_400001_customer;
+package com.tribetayling.tridentmumbai400001customer;
 
 import com.getcapacitor.BridgeActivity;
 

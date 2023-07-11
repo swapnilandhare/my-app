@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.tribetayling.trident_mumbai_400001_customer"
+    namespace "com.tribetayling.tridentmumbai400001customer"
     compileSdkVersion rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.tribetayling.trident_mumbai_400001_customer"
+        applicationId "com.tribetayling.tridentmumbai400001customer"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
